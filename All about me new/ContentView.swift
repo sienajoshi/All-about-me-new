@@ -17,6 +17,7 @@ struct ContentView: View {
             ZStack {
 
                 Image("chapelhillsunset")
+                Text("hello git ")
                 Text("All about me")
                     .font(.largeTitle)
                     .fontWeight(.bold)
